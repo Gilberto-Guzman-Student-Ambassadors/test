@@ -20,4 +20,4 @@
 
 #### 3. Videos-Section
 
-![2](captures/3.jpeg)
+![3](captures/3.jpeg)
