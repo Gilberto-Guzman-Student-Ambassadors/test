@@ -1,5 +1,11 @@
 # Final delivery website
 
+### Team members:
+
+1. José Gilberto Guzmán Gutiérrez - A200119.
+2. Ruben Octavio Rodriguez Cano - A200113.
+3. Eduardo Enrique Gordillo Sánchez -A200359.
+
 ### - Presentation Video ➡ https://www.youtube.com/watch?v=QnlSyHbMcIs
 
 ### - Website ➡ https://gilberto-guzman.github.io/desdeelcielofc/
